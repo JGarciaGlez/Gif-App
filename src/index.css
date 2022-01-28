@@ -1,0 +1,9 @@
+*{
+    text-transform: capitalize;
+}
+
+.imagenes{
+    max-width: 400px;
+    max-height: 225px;
+  
+}
