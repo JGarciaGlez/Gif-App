@@ -11,5 +11,5 @@ To install dependencies using this command npm install
 To start proyect  using this command npm start
 
 
+Its a small App created with React to search and show animated gifs.
 
-Una pequeña aplicación hecha en React con Hooks para buscar y mostrar gifs animados.
